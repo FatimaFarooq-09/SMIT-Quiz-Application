@@ -1,0 +1,99 @@
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    /* font-family: 'Arial', sans-serif; */
+}
+/* index css */
+.lead {
+    font-size: 1.5rem;
+}
+
+footer {
+    padding-top: 20px;
+    margin-top: 50px;
+    color: #6c757d;
+}
+
+/* home css */
+.navbar {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.user-profile {
+    font-size: 18px;
+    color: #333;
+}
+
+.dropdown-menu {
+    left: -50px;
+}
+
+.greeting {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.greeting span {
+    font-size: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card {
+    transition: 0.3s;
+    padding: 10px;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#button {
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid #0d6db7;
+    border-radius: 0%;
+    color: #0d6db7;
+    padding: 5px 20px ;
+    text-decoration: none;
+    width: 100%;
+    cursor: pointer;
+}
+#button:hover {
+    background-color: #0d6db7;
+    color: #fff;
+}
+
+#blue {
+    color:#0d6db7;
+}
+
+#green {
+    color: #28a745;
+}
+
+#theme-btn {
+    color: #0d6db7;
+    background-color: #fff;
+    padding: 5px 20px ;
+    outline: none;
+    border: 2px solid #0d6db7;
+    border-radius: 0%;
+    cursor: pointer;
+}
+
+#theme-btn:hover {
+    background-color: #0d6db7;
+    color: #fff;
+}
